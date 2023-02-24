@@ -1,2 +1,2 @@
 # Avacado_HTML-CSS
- Projeto realizado no Stage 3 como desafio do curso Esplorer da Rocketseat.
+ Project carried out on Stage 3 as a challenge proposed by Rocketseat on the Explorer course.
